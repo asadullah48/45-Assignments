@@ -1,5 +1,5 @@
 // lower case
-let personName: string = 'Afsheen'
+let personName: string = 'Asadullah Shafique'
 console.log("lowercase:", personName.toLowerCase());
 // upper case
 console.log( "uppercase:",personName.toLocaleUpperCase());
